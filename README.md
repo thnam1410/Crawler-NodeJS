@@ -4,7 +4,7 @@ Made with NodeJS - Axios - Cheerio
 
 # Requirements
 
-- Install [Node](https://nodejs.org/en/download/)
+- Install [NodeJS](https://nodejs.org/en/download/)
 - Npm Modules:
   - [Axios](https://www.npmjs.com/package/axios)
   - [Cheerio](https://www.npmjs.com/package/cheerio)
